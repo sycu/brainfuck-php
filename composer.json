@@ -1,0 +1,20 @@
+{
+    "name": "sycu/brainfuck-php",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patryk Syc",
+            "email": "patryk@edefine.pl"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
